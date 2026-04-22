@@ -13,3 +13,4 @@ Tratamento de erros para entradas inválidas.
 
 ##Integrantes:
 Arthur Leão Marçal Gomes
+Elioenai Augusto da Silva
